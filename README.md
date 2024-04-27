@@ -1,2 +1,4 @@
-# COP2002-Example-Repo
-Project1
+# Creating a project for GitHub
+# By James Nichols
+ 
+print("COP2002 Fall 2030")
